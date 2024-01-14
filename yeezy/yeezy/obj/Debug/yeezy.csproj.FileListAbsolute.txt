@@ -1,0 +1,17 @@
+C:\Users\rusta\source\repos\yeezy\yeezy\bin\Debug\yeezy.exe.config
+C:\Users\rusta\source\repos\yeezy\yeezy\bin\Debug\yeezy.exe
+C:\Users\rusta\source\repos\yeezy\yeezy\bin\Debug\yeezy.pdb
+C:\Users\rusta\source\repos\yeezy\yeezy\obj\Debug\yeezy.csproj.AssemblyReference.cache
+C:\Users\rusta\source\repos\yeezy\yeezy\obj\Debug\yeezy.csproj.SuggestedBindingRedirects.cache
+C:\Users\rusta\source\repos\yeezy\yeezy\obj\Debug\MainWindow.g.cs
+C:\Users\rusta\source\repos\yeezy\yeezy\obj\Debug\App.g.cs
+C:\Users\rusta\source\repos\yeezy\yeezy\obj\Debug\yeezy_MarkupCompile.cache
+C:\Users\rusta\source\repos\yeezy\yeezy\obj\Debug\yeezy_MarkupCompile.lref
+C:\Users\rusta\source\repos\yeezy\yeezy\obj\Debug\App.baml
+C:\Users\rusta\source\repos\yeezy\yeezy\obj\Debug\MainWindow.baml
+C:\Users\rusta\source\repos\yeezy\yeezy\obj\Debug\yeezy.g.resources
+C:\Users\rusta\source\repos\yeezy\yeezy\obj\Debug\yeezy.Properties.Resources.resources
+C:\Users\rusta\source\repos\yeezy\yeezy\obj\Debug\yeezy.csproj.GenerateResource.cache
+C:\Users\rusta\source\repos\yeezy\yeezy\obj\Debug\yeezy.csproj.CoreCompileInputs.cache
+C:\Users\rusta\source\repos\yeezy\yeezy\obj\Debug\yeezy.exe
+C:\Users\rusta\source\repos\yeezy\yeezy\obj\Debug\yeezy.pdb
